@@ -5,22 +5,22 @@
 
 ## Introdução
 
-Estamos aqui para apresentar um projeto que realizamos com dedicação para a matéria de Microcontroladores e IOT, utilizando o conhecido Arduino UNO R3.
+<p>Estamos aqui para apresentar um projeto que realizamos com dedicação para a matéria de Microcontroladores e IOT, utilizando o conhecido Arduino UNO R3.
 
 A ideia principal foi fazer um jogo que utilizasse poucos recursos, que seja divertido, e para conhecermos mais sobre o funcionamento dos componentes e adquirir experiência com sistema embarcado.
 
-Onde trabalhando em sinergia, unimos uma multiplicidade de ideias e inspirações em trabalhos anteriores para o processo deste projeto.
+Onde trabalhando em sinergia, unimos uma multiplicidade de ideias e inspirações em trabalhos anteriores para o processo deste projeto.<p>
 
 ### Projeto
 
-O projeto foi idealizado com a finalidade de criar um sistema de jogos portáteis. Optamos pelo Arduino Uno devido à sua acessibilidade, facilidade de uso e custo acessível. Além disso, o Arduino Uno é acompanhado por um software simples que permite a fácil implementação de comandos desejados.
+<p>O projeto foi idealizado com a finalidade de criar um sistema de jogos portáteis. Optamos pelo Arduino Uno devido à sua acessibilidade, facilidade de uso e custo acessível. Além disso, o Arduino Uno é acompanhado por um software simples que permite a fácil implementação de comandos desejados.
 
-O jogo desenvolvido para o sistema é um side-scroller, com uma visão lateral, onde o jogador controla um personagem que avança continuamente. Este estilo de jogo é exemplificado por clássicos como Mario, Mega Man e Sonic, entre outros. No nosso jogo, os jogadores acumulam pontos à medida que sobrevivem e desviam de obstáculos, permitindo competições amigáveis para determinar quem é o melhor.
+O jogo desenvolvido para o sistema é um side-scroller, com uma visão lateral, onde o jogador controla um personagem que avança continuamente. Este estilo de jogo é exemplificado por clássicos como Mario, Mega Man e Sonic, entre outros. No nosso jogo, os jogadores acumulam pontos à medida que sobrevivem e desviam de obstáculos, permitindo competições amigáveis para determinar quem é o melhor.<p>
 
 ## Componentes
 
-Para o nosso projeto, optamos por utilizar componentes de baixo custo e facilmente acessíveis, garantindo uma abordagem econômica e eficiente.
-As peças que utilizamos no projeto foram:
+<p>Para o nosso projeto, optamos por utilizar componentes de baixo custo e facilmente acessíveis, garantindo uma abordagem econômica e eficiente.
+As peças que utilizamos no projeto foram:<p>
 
 - Arduino Uno ![Arduino](https://github.com/NickGMaia/Projeto-LCD-Game/assets/127119412/76066f0f-c675-473a-86d4-b092a02c1ef7)
 
@@ -47,9 +47,9 @@ As peças que utilizamos no projeto foram:
 
 ## Linguagem
 
-A Linguagem utilizada para a realização do projeto foi a C++, visto que a linguagem em que o Arduino se baseia é uma versão em C++. Isso acontece pois é uma linguagem bem compreendida por muitos programadores, especialmente para iniciantes na área de eletrônica e programação.
+<p>A Linguagem utilizada para a realização do projeto foi a C++, visto que a linguagem em que o Arduino se baseia é uma versão em C++. Isso acontece pois é uma linguagem bem compreendida por muitos programadores, especialmente para iniciantes na área de eletrônica e programação.
 
-Além de oferecer eficiência e controle precisos sobre os recursos de hardware, características cruciais em sistemas embarcados como o Arduino, onde a otimização é essencial. Além de ser fácil se portar para outros sistemas.
+Além de oferecer eficiência e controle precisos sobre os recursos de hardware, características cruciais em sistemas embarcados como o Arduino, onde a otimização é essencial. Além de ser fácil se portar para outros sistemas.<p>
 
 ### Código fonte
 
